@@ -1,7 +1,7 @@
 class A{
 int a =20;
 public static void main(String args[]){
-Sysout.out.println("Statement:"+a);
+Sysout.out.println("Statements:"+a);
 }
 }
 output: Statement: 20
